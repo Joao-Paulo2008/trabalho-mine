@@ -1,0 +1,52 @@
+.fundo1{
+    background: url(imgs/f651ae50-ad3a-11ed-9059-2d5a35796017--minified.jpg);
+    max-width: 100%;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    text-align: center;
+}
+ 
+.logo1{
+    height: 570px;
+}
+
+.botao1{
+    height: 99px;
+}
+
+.b1{
+    text-align: center;
+}
+
+.botao2{
+    height: 100px;
+}
+
+.b2{
+    text-align: center;
+}
+
+.drielso{
+   background-color: black;
+}
+
+.drielso2{
+    background-color: black;
+}
+
+.b3{
+    text-align: center;
+}
+
+.botao3{
+    height: 106px;
+}
+
+.drielso3{
+    background-color: black;
+}
